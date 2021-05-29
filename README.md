@@ -65,6 +65,12 @@ function(){
 
 ### Tablolar
 | Ürün Numarası | Ürün Açıklaması | Ürün Fiyatı |
-| :-----     | :-----:           | -----:        |
+| :---     | :---:           | ---:        |
 | 1        | Açıklama1       | Fiyat1      |
 | 2        | Açıklama2       | Fiyat2      |
+
+| Ürün Numarası2 | Ürün Açıklaması2 | Ürün Fiyatı2 |
+| :-----     | :-----:           | -----:          |
+| 1        | Açıklama1       | Fiyat1              |
+| 2        | Açıklama2       | Fiyat2              |
+
