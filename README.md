@@ -62,3 +62,9 @@ function(){
         2. Mandalina  
             * Büyük
             * Küçük  
+
+### Tablolar
+| Ürün Numarası | Ürün Açıklaması | Ürün Fiyatı |
+| :---     | :---:           | ---:        |
+| 1        | Açıklama1       | Fiyat1      |
+| 2        | Açıklama2       | Fiyat2      |
