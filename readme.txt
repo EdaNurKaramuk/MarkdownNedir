@@ -1,0 +1,1 @@
+Bunu oku bakayım
