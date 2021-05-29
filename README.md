@@ -14,6 +14,7 @@ function(){
     console.log("Nasılsın?");
 }
 ```
+---
 
 ```javascript
 function(){
