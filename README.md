@@ -10,4 +10,4 @@ ___Paragraf kullanımı3 kalın ve eğik___
 `console.log("Hello World!");`
 ``` function(){
     console.log("Merhaba Eda!");
-} ``` 
+}
