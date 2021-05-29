@@ -22,3 +22,43 @@ function(){
     console.log("Nasılsın?");
 }
 ```
+
+---
+
+### Listeler
+- Sırasız liste elemanı 1
+- Sırasız liste elemanı 2
+- Sırasız liste elemanı 3
+- Sırasız liste elemanı 4
+
+* Sırasız liste elemanı 1
+* Sırasız liste elemanı 2
+* Sırasız liste elemanı 3
+* Sırasız liste elemanı 4
+* Sırasız liste elemanı 5
+
+1. Sıralı liste elemanı 1
+2. Sıralı liste elemanı 2
+3. Sıralı liste elemanı 3
+
+1. Kodda sıra numaraları farklı yazıldı.
+23. Kodda sıra numaraları farklı yazıldı.
+18. Kodda sıra numaraları farklı yazıldı.
+
+1. Soğuk İçecek
+    - Kola
+    - İceTea
+2. Sıcak İçecek
+    * Kahve
+    * Çay
+3. Kokteyl
+    1. Elmalı
+        - Yeşil elme
+        - Kırmızı elma
+    2. Turunçgil
+        1. Portakal
+            - Büyük
+            - Küçük
+        2. Mandalina  
+            * Büyük
+            * Küçük  
