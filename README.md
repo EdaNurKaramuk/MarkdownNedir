@@ -14,3 +14,10 @@ function(){
     console.log("Nasılsın?");
 }
 ```
+
+```javascript
+function(){
+    console.log("Selam Eda!");
+    console.log("Nasılsın?");
+}
+```
