@@ -74,3 +74,11 @@ function(){
 | 1        | Açıklama1       | Fiyat1              |
 | 2        | Açıklama2       | Fiyat2              |
 
+### Bağlantı Ekleme
+[Kodluyoruz Sayfası](https://www.kodluyoruz.org/)
+
+### Resim Ekleme
+![Kodluyoruz Logosu](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
+> Alıntı metin
+
